@@ -1,3 +1,4 @@
 hi
 added new line
 testing if this is working
+doing second test
